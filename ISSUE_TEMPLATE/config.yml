@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: UltraDNS Community
+    url: https://community.ultradns.com
+    about: Please ask and answer questions here.
+  - name: UltraDNS Documentation
+    url: https://docs.ultradns.com
+    about: Please check our documentation first.
+  - name: Security Issues
+    url: https://github.com/ultradns/.github/blob/master/SECURITY.md
+    about: Please report security vulnerabilities here.
