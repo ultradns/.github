@@ -22,9 +22,9 @@ UltraDNS is an enterprise-grade, cloud-based authoritative DNS service built to 
 
 ## Governance & Community
 
-- **Code of Conduct**: [CODE_OF_CONDUCT.md](https://github.com/UltraDNS/.github/blob/main/CODE_OF_CONDUCT.md)  
-- **Contributing**: [CONTRIBUTING.md](https://github.com/UltraDNS/.github/blob/main/CONTRIBUTING.md)  
-- **Security**: [SECURITY.md](https://github.com/UltraDNS/.github/blob/main/SECURITY.md)  
+- **Code of Conduct**: [CODE_OF_CONDUCT.md](https://github.com/UltraDNS/.github/blob/master/CODE_OF_CONDUCT.md)  
+- **Contributing**: [CONTRIBUTING.md](https://github.com/UltraDNS/.github/blob/master/CONTRIBUTING.md)  
+- **Security**: [SECURITY.md](https://github.com/UltraDNS/.github/blob/master/SECURITY.md)  
 
 ---
 
