@@ -152,7 +152,7 @@ By contributing to UltraDNS open source projects, you agree that your contributi
 
 If you have questions about contributing, please:
 - Open an issue in the relevant repository
-- Contact us at [opensource@ultradns.com](mailto:opensource@ultradns.com)
+- Contact us at [ultradnssupport@digicert.com](mailto:ultradnssupport@digicert.com)
 - Check our [documentation](https://docs.ultradns.com)
 
 Thank you for contributing to UltraDNS open source projects!
