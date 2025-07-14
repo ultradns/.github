@@ -4,7 +4,7 @@ UltraDNS is an enterprise-grade, cloud-based authoritative DNS service built to 
 
 ---
 
-## 🚀 Quick Links
+## Quick Links
 
 - **Ansible Galaxy** – [ultradns.ansible](https://galaxy.ansible.com/ultradns/ultradns)  
 - **Terraform Registry** – [registry.terraform.io/providers/ultradns/ultradns](https://registry.terraform.io/providers/ultradns/ultradns)  
@@ -12,7 +12,7 @@ UltraDNS is an enterprise-grade, cloud-based authoritative DNS service built to 
 
 ---
 
-## 🔗 Related Organizations
+## Related Organizations
 
 - **DNSMadeEasy**   – https://github.com/DNSMadeEasy  
 - **Constellix**    – https://github.com/Constellix  
@@ -20,7 +20,7 @@ UltraDNS is an enterprise-grade, cloud-based authoritative DNS service built to 
 
 ---
 
-## 🛡️ Governance & Community
+## Governance & Community
 
 - **Code of Conduct**: [CODE_OF_CONDUCT.md](https://github.com/UltraDNS/.github/blob/master/CODE_OF_CONDUCT.md)  
 - **Contributing**: [CONTRIBUTING.md](https://github.com/UltraDNS/.github/blob/master/CONTRIBUTING.md)  
@@ -28,14 +28,14 @@ UltraDNS is an enterprise-grade, cloud-based authoritative DNS service built to 
 
 ---
 
-## 🤝 Getting Help
+## Getting Help
 
 - **Support Portal**: https://dns.ultraproducts.support
 - **Email**: ultradnssupport@digicert.com  
 
 ---
 
-## 💡 How to Contribute
+## How to Contribute
 
 1. Fork the repo you’d like to improve.  
 2. Create a feature branch (`git checkout -b feature/foo`).  
