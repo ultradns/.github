@@ -6,6 +6,3 @@ contact_links:
   - name: UltraDNS Documentation
     url: https://docs.ultradns.com
     about: Please check our documentation first.
-  - name: Security Issues
-    url: https://github.com/ultradns/.github/blob/master/SECURITY.md
-    about: Please report security vulnerabilities here.
