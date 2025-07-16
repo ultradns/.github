@@ -8,7 +8,7 @@ Thank you for your interest in contributing to UltraDNS open source projects! We
 
 Before contributing, please ensure you have:
 
-1. Read and agreed to our [Code of Conduct](CODE_OF_CONDUCT.md)
+1. Read and agreed to our [Code of Conduct](https://github.com/UltraDNS/.github/blob/master/CODE_OF_CONDUCT.md)
 2. Familiarized yourself with the project you want to contribute to
 3. Set up your development environment according to the project's requirements
 
@@ -86,7 +86,7 @@ git commit -m "Add feature: brief description of changes
 
 ### Before Submitting
 
-- [ ] I have read and followed the [Code of Conduct](CODE_OF_CONDUCT.md)
+- [ ] I have read and followed the [Code of Conduct](https://github.com/UltraDNS/.github/blob/master/CODE_OF_CONDUCT.md)
 - [ ] My code follows the project's style guidelines
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have updated the documentation as necessary

@@ -73,4 +73,4 @@ Describe any security implications of your changes.
 
 ---
 
-**Note:** Please ensure that your pull request follows our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
+**Note:** Please ensure that your pull request follows our [Contributing Guidelines](https://github.com/UltraDNS/.github/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/UltraDNS/.github/blob/master/CODE_OF_CONDUCT.md).

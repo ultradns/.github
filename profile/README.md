@@ -1,6 +1,6 @@
 # UltraDNS on GitHub
 
-![UltraDNS Logo](https://github.com/ultradns/.github/raw/refs/heads/master/img/ultradns_logo.svg)
+![UltraDNS Logo](https://raw.githubusercontent.com/ultradns/.github/refs/heads/master/img/ultradns_logo.svg)
 
 UltraDNS is an enterprise-grade, cloud-based authoritative DNS service built to deliver fast, accurate, and secure query responses at scale. This GitHub organization hosts the official SDKs, automation playbooks, tools, and examples you need to integrate and extend UltraDNS in your infrastructure.
 
