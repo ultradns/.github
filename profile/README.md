@@ -14,7 +14,7 @@ UltraDNS is an enterprise-grade, cloud-based authoritative DNS service built to 
 
 - **DNSMadeEasy**   – https://github.com/DNSMadeEasy  
 - **Constellix**    – https://github.com/Constellix  
-- **DigiCert**      – https://github.com/digicert  
+- **DigiCert**      – https://github.com/DigiCert 
 
 ## Governance & Community
 
